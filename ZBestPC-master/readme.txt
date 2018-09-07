@@ -1,5 +1,5 @@
 Git is a version control system
-Git is free software distributed under the GPL.
+Git is a free software distributed under the GPL.
 My boos is a shabi
 ZB is a bootstrap 
 ZB is a shop project
