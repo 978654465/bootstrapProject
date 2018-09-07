@@ -4,4 +4,4 @@ My boos is a shabi
 ZB is a bootstrap 
 ZB is a shop project
 
-create a new branch is quick & simple
+create a new branch is quick and simple
